@@ -93,16 +93,6 @@ NOTES
 TODO
 compiler.xml
 
-*/src/main/resources/application.properties
-*/src/main/resources/electronic-signature.properties
-*/src/main/resources/logback.xml
-*/src/main/resources/oss-info.properties
-*/src/main/resources/sms-info.properties
-*/src/main/resources/sftp.properties
-*/src/main/resources/profile/target
-*/src/main/resources/ssl-cert/webank/pay
-*/src/main/resources/scripts/conf/profile/target
-
 .idea
 .ideaDataSources
 
